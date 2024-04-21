@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vivek
 - 👀 I specialized in wireless communication and signal processing
-- 🌱 I’m currently pursuing MTech in communication engineering
+- 🌱 MTech in communication engineering
 - 💞️ I work in C, C++, and Python
 
 <!---
