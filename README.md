@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Vivek
-- 👀 I specialized in wireless communication and signal processing
-- 🌱 MTech in communication engineering
-- 💞️ I work with C, C++, and Python
+Hi, I’m Vivek
+I specialized in wireless communication and signal processing
+MTech in communication engineering
+I work with C, C++, and Python
 
 <!---
 vivgit9/vivgit9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
