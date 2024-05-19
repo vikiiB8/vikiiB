@@ -1,8 +1,8 @@
 Hi, I’m Vivek
 
-I specialized in wireless communication and signal processing
+I specialized in Wireless Communication and Signal processing
 
-MTech in communication engineering
+Master's in Communication Engineering
 
 I work with C, C++, and Python
 
