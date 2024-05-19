@@ -2,7 +2,7 @@ Hi, I’m Vivek
 
 I specialized in Wireless Communication and Signal processing
 
-Master's in Communication Engineering
+Master's in Communication Engineering at IITB
 
 I work with C, C++, and Python
 
